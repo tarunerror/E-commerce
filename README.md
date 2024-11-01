@@ -38,7 +38,7 @@ A modern, fully-featured e-commerce platform built with React, TypeScript, and T
 1. **Clone and Install**
 
    ```bash
-   git clone https://github.com/yourusername/modernshop.git
+   https://github.com/tarunerror/E-commerce.git
    cd modernshop
    npm install
    ```
